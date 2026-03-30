@@ -1,2 +1,0 @@
-# python-coursework
-AI Programming 
